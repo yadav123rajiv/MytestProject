@@ -8,5 +8,5 @@ int main()
 	printf("go to hell");
 }
 void {
-	//go to hell 
+	go to hell 
 }
